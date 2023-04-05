@@ -1,0 +1,30 @@
+.todo__add{
+    position: relative;
+}
+
+.todo__add__icon{
+    position: absolute;
+    top: 50%;
+    left: 8px;
+    transform: translateY(-50%);
+}
+
+.add__todo__filed{
+    width: 230px;
+    height: 32px;
+    background: #424242;
+    border-radius: 8px;
+    border: none;
+    padding: 0 12px 0 34px;
+
+}
+.add__todo___button{
+    width: 50px;
+    height: 32px;
+    background: #424242;
+    border-radius: 8px;
+    border: none;
+
+
+}
+
